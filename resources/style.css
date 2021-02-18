@@ -42,3 +42,9 @@ a:hover {
 a:active {
     color: gray;
 }
+footer h3 {
+    text-align: right;
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
